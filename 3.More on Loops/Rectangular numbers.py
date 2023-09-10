@@ -1,8 +1,3 @@
-from math import *
-from collections import *
-from sys import *
-from os import *
-
 n = int(input())
 
 for i in range(1, n + 1):
