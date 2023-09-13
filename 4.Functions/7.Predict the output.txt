@@ -1,0 +1,8 @@
+What will be the output of following code?
+
+def function(a,b,c=1):
+    return a+b-c
+value = function(10,12,5)
+print(value)
+
+Answer = 17
