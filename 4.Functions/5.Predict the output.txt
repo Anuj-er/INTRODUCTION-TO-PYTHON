@@ -1,0 +1,10 @@
+What will be the output of following code?
+
+a = 14
+def f():
+    a = 12
+    return a
+a = f()
+print(a)
+
+Answer = 12
