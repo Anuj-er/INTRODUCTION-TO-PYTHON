@@ -1,0 +1,7 @@
+What will be the output of following code?
+
+li = [1,2,3,4,5]
+for i in li[1:4]:
+    print(i,end= “ “)
+
+Answer = [2,3,4]

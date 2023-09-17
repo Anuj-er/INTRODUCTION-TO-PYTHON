@@ -1,0 +1,7 @@
+What will be the output of following code?
+
+li = [‘abcd’,5,’def’,5]
+li.remove(5)
+print(li)
+
+Answer = ['abcd','def',5]

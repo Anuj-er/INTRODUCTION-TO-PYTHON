@@ -1,0 +1,8 @@
+What will be the output of following code?
+
+
+li =['abcd', 'def']
+li.insert(4,5)
+print(li)
+
+Answer = ['abcd', 'def' , 5]

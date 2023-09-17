@@ -1,0 +1,20 @@
+What will be the output of code if following input is provided to the code below?
+
+
+Input:
+5
+1
+2 
+3 
+4 
+5
+
+Code:
+
+n = int(input())
+li = []
+for i in range(n):
+    li.append(input())
+print(li)
+
+ANSWER = ['1','2','3','4','5']

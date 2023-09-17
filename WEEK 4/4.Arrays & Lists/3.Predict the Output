@@ -1,0 +1,8 @@
+What will be the output of following code?
+
+
+li = [5,2,6,8]
+li.pop(2)
+print(li)
+
+Answer = [5,2,8]
