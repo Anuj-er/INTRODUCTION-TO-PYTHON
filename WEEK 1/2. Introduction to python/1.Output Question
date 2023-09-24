@@ -1,0 +1,7 @@
+What will the following code segment print?
+
+
+print(“Career”)
+print(“Labs”)
+
+Answer: Career Labs (in next line)

@@ -1,0 +1,6 @@
+Consider the python code below -
+x = "abcd"
+x = 10
+What is the type of x after the code executes ?
+
+Answer = int

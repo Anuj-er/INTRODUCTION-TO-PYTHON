@@ -1,0 +1,10 @@
+Select correct variable name(s) which are allowed in python language.
+One or more options may be correct:
+
+1. var1
+2. var_1
+3. 1var
+4. _var1
+
+Answer: 
+1,2,4 are correct
