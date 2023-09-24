@@ -1,0 +1,13 @@
+Consider the following piece of code -
+x = 5
+if x < 6:
+    print("Hello")
+if x == 5:
+    print("Hi")
+else:
+    print("Hey")
+Which of the above 3 print statement(s) will be executed?
+
+Answer = print("Hello")
+         print("Hi")
+        

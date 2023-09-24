@@ -1,0 +1,11 @@
+What will be the output of following code?
+i=1
+while i<5:
+    if i == 6:
+        break
+    print(i,end=" ")
+    i = i + 1
+else:
+    print(“Else is also printed”); 
+
+Answer = 1 2 3 4 Else is also printed
