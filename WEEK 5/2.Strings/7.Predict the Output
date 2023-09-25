@@ -1,0 +1,6 @@
+What will be the output of following code?
+
+s = “abcd”
+print(s[-2])
+
+Answer = c

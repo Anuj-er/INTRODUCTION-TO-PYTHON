@@ -1,0 +1,8 @@
+What will the output of the following code?
+
+
+s = "abcd"
+b = s + "ef"
+print(s)
+
+Answer = abcd

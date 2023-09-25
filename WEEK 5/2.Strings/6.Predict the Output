@@ -1,0 +1,7 @@
+What will be the output of the following code?
+
+
+s = "abcdef"
+print (s[4:2:-1])
+
+Answer = ed

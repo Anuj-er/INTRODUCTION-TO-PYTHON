@@ -1,0 +1,6 @@
+What will be output of the following code?
+
+a = "abcdef" >= "abcd"
+print(a)
+
+Answer = True
