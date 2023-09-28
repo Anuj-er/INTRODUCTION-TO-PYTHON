@@ -1,0 +1,6 @@
+What will be the output of following code?
+
+d = {1:2, “abc”:5, “def”:7}
+print(d[0])
+
+Answer = Error

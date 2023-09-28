@@ -1,0 +1,11 @@
+What will be the output of following code?
+
+def multiply(a,b,c,*more):
+    value = a*b*c
+    for i in more:
+        value = value * i
+    return value
+V = multiply(1,2,3,4,5)
+print(V)
+
+Answer = 120

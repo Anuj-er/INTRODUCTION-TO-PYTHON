@@ -1,0 +1,6 @@
+What will be the output of following code?
+
+a = (“ab”,”abc”,”def”)
+print(min(a))
+
+Answer = ab

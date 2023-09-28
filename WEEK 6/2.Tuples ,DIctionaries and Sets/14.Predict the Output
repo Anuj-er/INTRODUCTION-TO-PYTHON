@@ -1,0 +1,8 @@
+What will be the output of following code?
+
+s = {}
+s.add(4)
+s.add(4)
+print(len(s))
+
+Answer = Error

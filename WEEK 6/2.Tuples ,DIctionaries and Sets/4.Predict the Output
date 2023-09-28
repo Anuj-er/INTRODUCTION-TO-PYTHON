@@ -1,0 +1,8 @@
+What will be the output of follwing code?
+
+a = 1,2
+b = (4,5)
+d = a+b
+print(d[2])
+
+Answer = 4

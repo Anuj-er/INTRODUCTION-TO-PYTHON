@@ -1,0 +1,9 @@
+What will be the output of following code?
+
+d = {1:2, “abc”:5, “def”:7}
+if 2 in d:
+    print(‘Present’)
+else:
+    print(‘Not Present’)
+
+Answer = Not Present
