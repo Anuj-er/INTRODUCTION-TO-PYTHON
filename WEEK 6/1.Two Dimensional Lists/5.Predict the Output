@@ -1,0 +1,6 @@
+What will be the output of following code?
+
+li = [ele**2 for ele in range(5)]
+print(li)
+
+Answer = [0,1,4,9,16]

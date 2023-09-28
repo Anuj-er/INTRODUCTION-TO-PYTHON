@@ -1,0 +1,6 @@
+What will be the output of following code?
+
+li = [ele**2 for ele in range(10) if ele%3 ==0]
+print(li)
+
+Answer = [0,9,36,81]
